@@ -1,0 +1,16 @@
+..\Output\beep.o: ..\..\Hardware\src\beep.c
+..\Output\beep.o: ..\..\Hardware\inc\beep.h
+..\Output\beep.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\beep.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\Output\beep.o: D:\KEIL\KEIL_Pro\keil°²×°\ARM\RV31\INC\stdint.h
+..\Output\beep.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\Output\beep.o: ..\..\user\inc\stm32f10x_conf.h
+..\Output\beep.o: ..\..\Libraries\inc\stm32f10x_adc.h
+..\Output\beep.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\beep.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\Output\beep.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\Output\beep.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\Output\beep.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\Output\beep.o: ..\..\Libraries\inc\misc.h
+..\Output\beep.o: ..\..\system\inc\delay.h
+..\Output\beep.o: ..\..\system\inc\sys.h

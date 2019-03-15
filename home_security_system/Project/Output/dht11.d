@@ -1,0 +1,16 @@
+..\Output\dht11.o: ..\..\Hardware\src\dht11.c
+..\Output\dht11.o: ..\..\Hardware\inc\dht11.h
+..\Output\dht11.o: ..\..\system\inc\sys.h
+..\Output\dht11.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\dht11.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\Output\dht11.o: D:\KEIL\KEIL_Pro\keil°²×°\ARM\RV31\INC\stdint.h
+..\Output\dht11.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\Output\dht11.o: ..\..\user\inc\stm32f10x_conf.h
+..\Output\dht11.o: ..\..\Libraries\inc\stm32f10x_adc.h
+..\Output\dht11.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\dht11.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\Output\dht11.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\Output\dht11.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\Output\dht11.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\Output\dht11.o: ..\..\Libraries\inc\misc.h
+..\Output\dht11.o: ..\..\system\inc\delay.h

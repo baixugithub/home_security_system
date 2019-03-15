@@ -1,0 +1,16 @@
+..\Output\usart3.o: ..\..\Hardware\src\usart3.c
+..\Output\usart3.o: ..\..\Hardware\inc\usart3.h
+..\Output\usart3.o: D:\KEIL\KEIL_Pro\keil安装\ARM\RV31\INC\stdio.h
+..\Output\usart3.o: ..\..\system\inc\sys.h
+..\Output\usart3.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\usart3.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\Output\usart3.o: D:\KEIL\KEIL_Pro\keil安装\ARM\RV31\INC\stdint.h
+..\Output\usart3.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\Output\usart3.o: ..\..\user\inc\stm32f10x_conf.h
+..\Output\usart3.o: ..\..\Libraries\inc\stm32f10x_adc.h
+..\Output\usart3.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\usart3.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\Output\usart3.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\Output\usart3.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\Output\usart3.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\Output\usart3.o: ..\..\Libraries\inc\misc.h

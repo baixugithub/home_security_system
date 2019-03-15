@@ -1,0 +1,46 @@
+*** Creating Trace Output File '..\Output\home_safe.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output\main.o"'
+### List of Objects: adding '"..\output\stm32f10x_it.o"'
+### List of Objects: adding '"..\output\adc.o"'
+### List of Objects: adding '"..\output\dht11.o"'
+### List of Objects: adding '"..\output\fire.o"'
+### List of Objects: adding '"..\output\key.o"'
+### List of Objects: adding '"..\output\led.o"'
+### List of Objects: adding '"..\output\red.o"'
+### List of Objects: adding '"..\output\smoke.o"'
+### List of Objects: adding '"..\output\usart2.o"'
+### List of Objects: adding '"..\output\sim900a.o"'
+### List of Objects: adding '"..\output\motor.o"'
+### List of Objects: adding '"..\output\beep.o"'
+### List of Objects: adding '"..\output\figure.o"'
+### List of Objects: adding '"..\output\usart3.o"'
+### List of Objects: adding '"..\output\exti.o"'
+### List of Objects: adding '"..\output\delay.o"'
+### List of Objects: adding '"..\output\sys.o"'
+### List of Objects: adding '"..\output\usart.o"'
+### List of Objects: adding '"..\output\core_cm3.o"'
+### List of Objects: adding '"..\output\system_stm32f10x.o"'
+### List of Objects: adding '"..\output\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\output\misc.o"'
+### List of Objects: adding '"..\output\stm32f10x_adc.o"'
+### List of Objects: adding '"..\output\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\output\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\output\stm32f10x_usart.o"'
+### List of Objects: adding '"..\output\stm32f10x_exti.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\output\main.o" "..\output\stm32f10x_it.o" "..\output\adc.o" "..\output\dht11.o" "..\output\fire.o" "..\output\key.o" "..\output\led.o" "..\output\red.o" "..\output\smoke.o" "..\output\usart2.o" "..\output\sim900a.o" "..\output\motor.o" "..\output\beep.o" "..\output\figure.o" "..\output\usart3.o" "..\output\exti.o" "..\output\delay.o" "..\output\sys.o" "..\output\usart.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\startup_stm32f10x_hd.o" "..\output\misc.o" "..\output\stm32f10x_adc.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_exti.o" --strict --scatter "..\Output\home_safe.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\listing\home_safe.map" -o "..\Output\home_safe.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Output\home_safe.axf'
+### ADS-LD Command File: '..\Output\home_safe.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Output\home_safe.lnp', Handle=0x0000021C
+### Writing '.lnp' file
+### ADS-LD Command file '..\Output\home_safe.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

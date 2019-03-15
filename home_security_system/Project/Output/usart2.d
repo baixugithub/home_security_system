@@ -1,0 +1,16 @@
+..\Output\usart2.o: ..\..\Hardware\src\usart2.c
+..\Output\usart2.o: ..\..\system\inc\delay.h
+..\Output\usart2.o: ..\..\system\inc\sys.h
+..\Output\usart2.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\usart2.o: ..\..\CMSIS\CoreSupport\core_cm3.h
+..\Output\usart2.o: D:\KEIL\KEIL_Pro\keil°²×°\ARM\RV31\INC\stdint.h
+..\Output\usart2.o: ..\..\CMSIS\STM32F10x\system_stm32f10x.h
+..\Output\usart2.o: ..\..\user\inc\stm32f10x_conf.h
+..\Output\usart2.o: ..\..\Libraries\inc\stm32f10x_adc.h
+..\Output\usart2.o: ..\..\CMSIS\STM32F10x\stm32f10x.h
+..\Output\usart2.o: ..\..\Libraries\inc\stm32f10x_exti.h
+..\Output\usart2.o: ..\..\Libraries\inc\stm32f10x_gpio.h
+..\Output\usart2.o: ..\..\Libraries\inc\stm32f10x_rcc.h
+..\Output\usart2.o: ..\..\Libraries\inc\stm32f10x_usart.h
+..\Output\usart2.o: ..\..\Libraries\inc\misc.h
+..\Output\usart2.o: ..\..\Hardware\inc\usart2.h

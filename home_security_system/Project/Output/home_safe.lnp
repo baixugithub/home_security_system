@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "..\output\main.o" "..\output\stm32f10x_it.o" "..\output\adc.o" "..\output\dht11.o" "..\output\fire.o" "..\output\key.o" "..\output\led.o" "..\output\red.o" "..\output\smoke.o" "..\output\usart2.o" "..\output\sim900a.o" "..\output\motor.o" "..\output\beep.o" "..\output\figure.o" "..\output\usart3.o" "..\output\exti.o" "..\output\delay.o" "..\output\sys.o" "..\output\usart.o" "..\output\core_cm3.o" "..\output\system_stm32f10x.o" "..\output\startup_stm32f10x_hd.o" "..\output\misc.o" "..\output\stm32f10x_adc.o" "..\output\stm32f10x_gpio.o" "..\output\stm32f10x_rcc.o" "..\output\stm32f10x_usart.o" "..\output\stm32f10x_exti.o" --strict --scatter "..\Output\home_safe.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\listing\home_safe.map" -o "..\Output\home_safe.axf"
